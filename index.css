@@ -1,0 +1,58 @@
+ 
+  html {
+    font-size: 20px;
+    background: linear-gradient(
+      133deg,
+      rgb(53,53,53) 0%,
+      rgb(40,75,99) 50%,
+      rgb(60,110,113) 100%
+    );
+  }
+
+h1 {
+  color: rgb(217, 217, 217);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
+
+h5 {
+    font-size: 20px;
+    color: rgb(217, 217, 217);
+}
+
+
+.jumbotron {
+    background-image:url(https://bytenbit.com/wp-content/uploads/2019/09/Resful-API-cycle-1024x275.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw;
+    height: cover;
+    border: solid 5px rgb(53, 53, 53);
+    border-radius: 0em;
+    margin: 0;
+
+}
+
+.media-body {
+    padding: 25px;
+    margin-left: 25px;
+    flex-direction: column; 
+    border-left: solid 5px rgb(53, 53, 53);  
+    color: rgb(217, 217, 217); 
+}
+.btn {
+    color: rgb(217, 217, 217);
+}
+.media {
+    padding: 25px;
+    border: solid 5px rgb(53, 53, 53);
+    background: linear-gradient(
+        133deg,
+        rgb(53,53,53) 0%,
+        rgb(40,75,99) 50%,
+        rgb(60,110,113) 100%
+      );
+}
+
+
+
